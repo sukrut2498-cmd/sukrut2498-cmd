@@ -29,7 +29,7 @@ I have 5+ years of experience building scalable backend systems using Java and S
 ### Connect with Me
 
 LinkedIn:
-[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/sukrut-b-224826338/)
+[https://linkedin.com/in/sukrut](https://www.linkedin.com/in/sukrut-b-224826338/)
 
 Email:
 bsukrut407@gmail.com
