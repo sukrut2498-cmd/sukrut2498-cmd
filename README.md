@@ -32,4 +32,4 @@ LinkedIn:
 [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/sukrut-b-224826338/)
 
 Email:
-yourmail@gmail.com
+bsukrut407@gmail.com
