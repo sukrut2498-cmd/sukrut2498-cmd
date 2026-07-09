@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00C6FF&height=200&section=header&text=Sukrut%20Bilaskar&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Java%20Backend%20Engineer%20%7C%20Distributed%20Systems%20%7C%20AI%20Integration&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0077B5&center=true&vCenter=true&width=750&lines=🏆+TCS+AI+Fridays+Season+2+—+First+Place+Winner;⚡+5%2B+Years+Java+Backend+%7C+TCS+Pune;🚀+Spring+Boot+%7C+Kafka+%7C+AWS+%7C+Microservices;📦+50K%2B+Daily+Transactions+%7C+99.9%25+Uptime;🤖+AI+Integration+%7C+Enterprise+Platform+Builder" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&lines=TCS+AI+Fridays+S2+--+First+Place+Winner+%F0%9F%8F%86;5%2B+Years+Java+Backend+Engineer+%7C+TCS+Pune;Spring+Boot+%7C+Kafka+%7C+AWS+%7C+Microservices;50K%2B+Daily+Transactions+%7C+99.9%25+Uptime;AI+Integration+%7C+Enterprise+Platform+Builder" alt="Typing SVG"/>
 
 <br/>
 
@@ -254,14 +254,9 @@ public class SukrutBilaskar extends BackendEngineer {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sukrut2498-cmd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sukrut2498-cmd&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
+> 📌 **Stats will appear here once public repositories are added**
 
 <br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sukrut2498-cmd&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="60%"/>
-
-<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sukrut2498-cmd&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 
