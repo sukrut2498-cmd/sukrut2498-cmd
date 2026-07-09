@@ -148,7 +148,7 @@ public class SukrutBilaskar extends BackendEngineer {
 <tr>
 <td width="50%" valign="top">
 
-### 🏆 AdVanta AI
+### 🏆 AdVanta AI · [`backend`](https://github.com/sukrut2498-cmd/advanta-ai-backend) · [`frontend`](https://github.com/sukrut2498-cmd/advanta-ai-frontend)
 **First Place — TCS AI Fridays Season 2, Pune · June 2026**
 
 > AI-powered enterprise campaign generation & compliance platform
@@ -197,7 +197,7 @@ public class SukrutBilaskar extends BackendEngineer {
 </td>
 <td width="50%" valign="top">
 
-### 🏗️ System Design Expertise
+### 📚 DSA Practice · [`dsa-java`](https://github.com/sukrut2498-cmd/dsa-java)
 > Patterns & architectures applied in production
 
 ```
@@ -254,9 +254,14 @@ public class SukrutBilaskar extends BackendEngineer {
 
 <div align="center">
 
-> 📌 **Stats will appear here once public repositories are added**
+<img src="https://github-readme-stats.vercel.app/api?username=sukrut2498-cmd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sukrut2498-cmd&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
 
 <br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sukrut2498-cmd&theme=tokyonight&hide_border=true" width="60%"/>
+
+<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sukrut2498-cmd&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 
