@@ -166,12 +166,12 @@ Distributed order management system with payment and inventory orchestration.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sukrut-b&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sukrut-b&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sukrut2498-cmd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sukrut2498-cmd&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sukrut-b&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sukrut2498-cmd&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -192,7 +192,7 @@ I'm actively looking for **Senior / Lead Java Backend Engineer** roles at produc
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sukrut-b&color=0077B5&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=sukrut2498-cmd&color=0077B5&style=flat-square&label=Profile+Views" alt="Profile Views"/>
   
   *"Build systems that scale, architectures that last, and code that teams are proud of."*
 </div>
