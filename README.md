@@ -1,46 +1,53 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00C6FF&height=200&section=header&text=Sukrut%20Bilaskar&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Java%20Backend%20Engineer%20%7C%20Distributed%20Systems%20%7C%20AI%20Integration&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,50:00C6FF,100:0077B5&height=220&section=header&text=SUKRUT%20BILASKAR&fontSize=52&fontColor=ffffff&fontAlignY=32&animation=fadeIn&desc=Java%20Backend%20Engineer%20%E2%80%A2%20Distributed%20Systems%20%E2%80%A2%20Applied%20AI&descAlignY=52&descSize=17" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&lines=TCS+AI+Fridays+S2+--+First+Place+Winner+%F0%9F%8F%86;5%2B+Years+Java+Backend+Engineer+%7C+TCS+Pune;Spring+Boot+%7C+Kafka+%7C+AWS+%7C+Microservices;50K%2B+Daily+Transactions+%7C+99.9%25+Uptime;AI+Integration+%7C+Enterprise+Platform+Builder" alt="Typing SVG"/>
+<a href="https://www.linkedin.com/in/sukrut-b-224826338/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:sukrut1606@gmail.com"><img src="https://img.shields.io/badge/Email-Hire%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/sukrut2498-cmd"><img src="https://img.shields.io/badge/Status-Immediate%20Joiner-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=sukrut2498-cmd&color=0077B5&style=for-the-badge&label=Profile+Views"/>
 
-<br/>
+<br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sukrut-b-224826338/)
-[![Gmail](https://img.shields.io/badge/Email-Hire%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sukrut1606@gmail.com)
-[![Open to Work](https://img.shields.io/badge/Status-Immediate%20Joiner-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white)]()
-[![Profile Views](https://komarev.com/ghpvc/?username=sukrut2498-cmd&color=0077B5&style=for-the-badge&label=Profile+Views)](https://github.com/sukrut2498-cmd)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2600&pause=900&color=00C6FF&center=true&vCenter=true&width=800&lines=%F0%9F%8F%86+TCS+AI+Fridays+S2+%E2%80%94+First+Place+Winner;5%2B+Years+Building+Java+Backend+Systems+at+TCS;Spring+Boot+%E2%80%A2+Kafka+%E2%80%A2+AWS+%E2%80%A2+Microservices;50K%2B+Daily+Transactions+%E2%80%A2+99.9%25+Uptime;Turning+Complex+Systems+Into+Simple+Ones" alt="Typing SVG"/>
 
 </div>
 
----
+<br/>
 
-## 🏆 Hall of Fame
+<!-- ================= HALL OF FAME ================= -->
+<h2 align="center">🏆 Hall of Fame</h2>
 
 <div align="center">
 
-| 🥇 | TCS AI Fridays Season 2 — **First Place** | Pune · June 2026 |
+| | | |
 |:---:|:---|:---:|
+| 🥇 | **TCS AI Fridays Season 2 — First Place** | Pune · June 2026 |
 | 🏗️ | Built **AdVanta AI** — Enterprise AI Campaign Platform | Java · Spring Boot · MySQL |
-| 👥 | Defeated teams of **Senior Developers, Team Leads & Architects** | Company-wide |
+| 👥 | Beat teams of **Senior Developers, Team Leads & Architects** | Company-wide |
 | 🎖️ | Recognised by **Global Head, Delivery Centers & Shared Services** | TCS India |
 
 </div>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0077B5,100:00C6FF&height=3&width=1000" />
+</div>
 
+<br/>
+
+<!-- ================= ABOUT ================= -->
 ## ⚡ About Me
 
 ```java
 public class SukrutBilaskar extends BackendEngineer {
 
-    String name        = "Sukrut Bilaskar";
-    String role        = "Senior Java Backend Engineer";
-    String company     = "TCS (Tata Consultancy Services), Pune";
-    String experience  = "5+ Years";
-    String status      = "🟢 Immediate Joiner";
+    String   name        = "Sukrut Bilaskar";
+    String   role        = "Senior Java Backend Engineer";
+    String   company     = "TCS (Tata Consultancy Services), Pune";
+    String   experience  = "5+ Years";
+    String   status      = "🟢 Immediate Joiner";
 
-    String[] expertise = {
+    String[] expertise   = {
         "Distributed Systems Design",
         "Event-Driven Architecture",
         "High-Throughput Microservices",
@@ -48,17 +55,23 @@ public class SukrutBilaskar extends BackendEngineer {
         "Cloud-Native AWS Deployments"
     };
 
-    String[] openTo    = {
+    String[] openTo      = {
         "Senior / Lead Java Backend Engineer",
         "Pune · Bangalore · Hyderabad · Mumbai · Remote"
     };
 
-    String superpower  = "Turning complex systems into clean, scalable, fault-tolerant platforms";
+    String   superpower  = "Turning complex systems into clean, scalable, fault-tolerant platforms";
+
+    @Override
+    public void ping() {
+        System.out.println("Let's build something great → sukrut1606@gmail.com");
+    }
 }
 ```
 
----
+<br/>
 
+<!-- ================= IMPACT ================= -->
 ## 📊 Production Impact — By the Numbers
 
 <div align="center">
@@ -85,18 +98,19 @@ public class SukrutBilaskar extends BackendEngineer {
 📦 Technical Debt    ███████████████░░░░░  -35%   12+ Microservices
 ```
 
----
+<br/>
 
+<!-- ================= TECH STACK ================= -->
 ## 🛠️ Tech Arsenal
 
 <div align="center">
 
-### 🔷 Core Languages
-![Java](https://img.shields.io/badge/Java_11%2F17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+**Core Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=java,mysql,python&theme=dark" />
 
-### 🔷 Backend Frameworks
+**Backend Frameworks**
+<br/>
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -104,58 +118,63 @@ public class SukrutBilaskar extends BackendEngineer {
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![WebFlux](https://img.shields.io/badge/Spring_WebFlux-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
-### 🔷 Messaging & Streaming
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+**Messaging & Streaming**
+<br/>
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/REST_APIs-FF6600?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST](https://img.shields.io/badge/REST_APIs-FF6600?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### 🔷 Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS_EC2%2FS3%2FSQS%2FLambda-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins_CI%2FCD-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![CloudWatch](https://img.shields.io/badge/AWS_CloudWatch-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+**Cloud & DevOps**
+<br/>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins&theme=dark" />
 
-### 🔷 Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+**Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" />
 ![H2](https://img.shields.io/badge/H2_Database-1021FF?style=for-the-badge&logo=h2&logoColor=white)
 
-### 🔷 Testing & Quality
+**Testing & Quality**
+<br/>
 ![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![Mockito](https://img.shields.io/badge/Mockito-00ACC1?style=for-the-badge&logo=mockito&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 
-### 🔷 AI & Emerging
-![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white)
+**AI & Emerging**
+<br/>
+![GenAI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![LLM](https://img.shields.io/badge/LLM_Integration-10A37F?style=for-the-badge&logo=openai&logoColor=white)
 
-### 🔷 Tools & Monitoring
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+**Tools & Monitoring**
+<br/>
+<img src="https://skillicons.dev/icons?i=github,maven,postman&theme=dark" />
 ![Kibana](https://img.shields.io/badge/Kibana%2FELK-005571?style=for-the-badge&logo=elastic&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger%2FOpenAPI-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
 </div>
 
----
+<br/>
 
+<!-- ================= PROJECTS ================= -->
 ## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🏆 AdVanta AI · [`backend`](https://github.com/sukrut2498-cmd/advanta-ai-backend) · [`frontend`](https://github.com/sukrut2498-cmd/advanta-ai-frontend)
+### 🏆 AdVanta AI
+[`backend`](https://github.com/sukrut2498-cmd/advanta-ai-backend) · [`frontend`](https://github.com/sukrut2498-cmd/advanta-ai-frontend)
+
 **First Place — TCS AI Fridays Season 2, Pune · June 2026**
 
 > AI-powered enterprise campaign generation & compliance platform
 
 **Stack:** `Java` `Spring Boot` `Spring Data JPA` `REST APIs` `Streamlit` `MySQL`
 
-**Highlights:**
+<details>
+<summary><b>Highlights</b></summary>
+<br/>
+
 - 🤖 AI-assisted campaign generation with compliance scoring
 - 📱 Multi-channel: Instagram · Email · SMS · Web
 - 📅 Campaign scheduling, versioning & editable drafts
@@ -163,20 +182,27 @@ public class SukrutBilaskar extends BackendEngineer {
 - 🏆 Beat Senior Devs, TLs & Architects company-wide
 - 🎖️ Recognised by Global Head, TCS Delivery Centers
 
+</details>
+
 </td>
 <td width="50%" valign="top">
 
 ### 🔔 Distributed Notification Platform
-> High-volume fault-tolerant event-driven notification system
+> High-volume, fault-tolerant event-driven notification system
 
 **Stack:** `Spring Boot` `Apache Kafka` `Redis` `Docker` `AWS EC2/S3` `Jenkins`
 
-**Highlights:**
+<details>
+<summary><b>Highlights</b></summary>
+<br/>
+
 - ⚡ **100K+ events/day** — email & SMS
 - 🛡️ **99.95% delivery reliability** via DLQ + circuit breakers
 - 📈 Sustained **3x traffic spikes** without degradation
 - 📋 Designed full HLD + LLD before implementation
 - 🔍 CloudWatch + ELK alerting for proactive SLA management
+
+</details>
 
 </td>
 </tr>
@@ -188,16 +214,23 @@ public class SukrutBilaskar extends BackendEngineer {
 
 **Stack:** `Spring Boot` `Kafka` `MySQL` `Redis` `Resilience4j` `AWS SQS`
 
-**Highlights:**
+<details>
+<summary><b>Highlights</b></summary>
+<br/>
+
 - 🔁 **Saga pattern** — documented choreography vs orchestration trade-offs
 - ✅ Idempotent APIs — duplicate payment errors reduced to **zero**
 - 📉 MySQL optimisation → **-35% latency** (420ms → 273ms)
 - 🚦 Rate limiting + Circuit Breaker under **10K+ req/min**
 
+</details>
+
 </td>
 <td width="50%" valign="top">
 
-### 📚 DSA Practice · [`dsa-java`](https://github.com/sukrut2498-cmd/dsa-java)
+### 📚 DSA & System Design Patterns
+[`dsa-java`](https://github.com/sukrut2498-cmd/dsa-java)
+
 > Patterns & architectures applied in production
 
 ```
@@ -217,8 +250,9 @@ public class SukrutBilaskar extends BackendEngineer {
 </tr>
 </table>
 
----
+<br/>
 
+<!-- ================= EXPERIENCE ================= -->
 ## 💼 Experience Timeline
 
 ```
@@ -248,8 +282,9 @@ public class SukrutBilaskar extends BackendEngineer {
  └───────────────────────────────────────────────────┘
 ```
 
----
+<br/>
 
+<!-- ================= GITHUB STATS ================= -->
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -263,12 +298,30 @@ public class SukrutBilaskar extends BackendEngineer {
 
 <br/><br/>
 
+<img src="https://github-profile-trophy.vercel.app/?username=sukrut2498-cmd&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" width="90%"/>
+
+<br/><br/>
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sukrut2498-cmd&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 
 </div>
 
----
+<br/>
 
+<!-- ================= CONTRIBUTION SNAKE ================= -->
+<div align="center">
+
+### 🐍 Contribution Graph
+
+<img src="https://raw.githubusercontent.com/sukrut2498-cmd/sukrut2498-cmd/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+
+<sub>Animated by the <code>github-contribution-grid-snake</code> action — see setup note below ⬇️</sub>
+
+</div>
+
+<br/>
+
+<!-- ================= EDUCATION ================= -->
 ## 🎓 Education & Credentials
 
 <div align="center">
@@ -281,16 +334,17 @@ public class SukrutBilaskar extends BackendEngineer {
 
 </div>
 
----
+<br/>
+
+<!-- ================= CONTACT ================= -->
+<div align="center">
 
 ## 📫 Let's Build Something Great
 
-<div align="center">
-
 > 💼 Actively looking for **Senior / Lead Java Backend Engineer** roles
-> 
+>
 > 📍 **Pune · Bangalore · Hyderabad · Mumbai · Remote**
-> 
+>
 > 🟢 **Immediate Joiner**
 
 <br/>
@@ -298,6 +352,8 @@ public class SukrutBilaskar extends BackendEngineer {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sukrut-b-224826338/)
 [![Email](https://img.shields.io/badge/Email-Hire_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sukrut1606@gmail.com)
 
-</div>
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0077B5&height=120&section=footer" width="100%"/>
+
+</div>
