@@ -294,7 +294,7 @@ public class SukrutBilaskar extends BackendEngineer {
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sukrut2498-cmd&theme=tokyonight&hide_border=true" width="60%"/>
+<img src="https://github-readme-streak-stats-tjt5.onrender.com?user=sukrut2498-cmd&theme=tokyonight&hide_border=true" width="60%"/>
 
 <br/><br/>
 
