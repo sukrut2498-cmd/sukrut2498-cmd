@@ -84,7 +84,7 @@ public class SukrutBilaskar extends BackendEngineer {
 | 🔗 Inter-service Latency | — | — | **-25% via Kafka Migration** |
 | 🛡️ Release Failures | — | — | **-40% via Docker Parity** |
 | 📦 Technical Debt | — | — | **-35% across 12+ Repos** |
-| 🎯 Message Delivery | — | 99.95% | **100K+ Events/day** |
+| 🎯 Message Delivery | — | 99.96% | **100K+ Events/day** |
 | 👨‍🏫 Engineers Mentored | — | 3 | **Code Quality Culture** |
 
 </div>
