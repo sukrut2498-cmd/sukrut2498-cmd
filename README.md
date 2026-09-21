@@ -1,359 +1,387 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,50:00C6FF,100:0077B5&height=220&section=header&text=SUKRUT%20BILASKAR&fontSize=52&fontColor=ffffff&fontAlignY=32&animation=fadeIn&desc=Java%20Backend%20Engineer%20%E2%80%A2%20Distributed%20Systems%20%E2%80%A2%20Applied%20AI&descAlignY=52&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:070B1F,55:0B2A66,100:3B1F7A&height=230&section=header&text=SUKRUT%20BILASKAR&fontSize=52&fontColor=E6F1FF&fontAlignY=36&animation=fadeIn&desc=Senior%20Java%20Backend%20Engineer&descSize=20&descAlignY=58" width="100%" alt="Sukrut Bilaskar — Senior Java Backend Engineer"/>
 
-<a href="https://www.linkedin.com/in/sukrut-b-224826338/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:sukrut1606@gmail.com"><img src="https://img.shields.io/badge/Email-Hire%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/sukrut2498-cmd"><img src="https://img.shields.io/badge/Status-Immediate%20Joiner-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=sukrut2498-cmd&color=0077B5&style=for-the-badge&label=Profile+Views"/>
+**Building scalable, resilient distributed systems with Java, Spring Boot, Kafka &amp; AWS.**
 
-<br/><br/>
+<sub>5+ years · TCS · Pune</sub>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2600&pause=900&color=00C6FF&center=true&vCenter=true&width=800&lines=%F0%9F%8F%86+TCS+AI+Fridays+S2+%E2%80%94+First+Place+Winner;5%2B+Years+Building+Java+Backend+Systems+at+TCS;Spring+Boot+%E2%80%A2+Kafka+%E2%80%A2+AWS+%E2%80%A2+Microservices;50K%2B+Daily+Transactions+%E2%80%A2+99.9%25+Uptime;Turning+Complex+Systems+Into+Simple+Ones" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=600&height=36&lines=Java+Backend+Engineer;Distributed+Systems;Microservices+Architecture;Apache+Kafka;AWS+Cloud;Applied+AI;Production+Engineering" alt="Typing animation"/>
+
+<a href="https://www.linkedin.com/in/sukrut-b-224826338/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:sukrut1606@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/sukrut2498-cmd"><img src="https://img.shields.io/badge/GitHub-sukrut2498--cmd-0B1026?style=flat-square&logo=github&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Status-Immediate%20Joiner-22C55E?style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=sukrut2498-cmd&label=Profile+Views&color=1E3A8A&style=flat-square"/>
 
 </div>
 
 <br/>
 
-<!-- ================= HALL OF FAME ================= -->
-<h2 align="center">🏆 Hall of Fame</h2>
-
 <div align="center">
 
-| | | |
-|:---:|:---|:---:|
-| 🥇 | **TCS AI Fridays Season 2 — First Place** | Pune · June 2026 |
-| 🏗️ | Built **AdVanta AI** — Enterprise AI Campaign Platform | Java · Spring Boot · MySQL |
-| 👥 | Beat teams of **Senior Developers, Team Leads & Architects** | Company-wide |
-| 🎖️ | Recognised by **Global Head, Delivery Centers & Shared Services** | TCS India |
+```text
+        ┌────────────────────────┐
+        │        CLIENTS         │
+        └───────────┬────────────┘
+                    ▼
+        ┌────────────────────────┐
+        │      API GATEWAY       │
+        └───────────┬────────────┘
+                    ▼
+    ┌───────────────────────────────┐
+    │  SPRING BOOT MICROSERVICES    │
+    │  Spring Cloud · Security · JPA│
+    └───────────────┬───────────────┘
+                    ▼
+        ┌────────────────────────┐
+        │  APACHE KAFKA          │
+        │  events · retries · DLQ│
+        └───────────┬────────────┘
+                    ▼
+  ┌───────────────────────────────────┐
+  │ MySQL │ Redis │ AWS │ K8s │ ELK   │
+  └───────────────────────────────────┘
+```
 
 </div>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0077B5,100:00C6FF&height=3&width=1000" />
-</div>
-
-<br/>
-
-<!-- ================= ABOUT ================= -->
-## ⚡ About Me
+## Who I Am
 
 ```java
-public class SukrutBilaskar extends BackendEngineer {
+public final class SukrutBilaskar {
 
-    String   name        = "Sukrut Bilaskar";
-    String   role        = "Senior Java Backend Engineer";
-    String   company     = "TCS (Tata Consultancy Services), Pune";
-    String   experience  = "5+ Years";
-    String   status      = "🟢 Immediate Joiner";
+    String role       = "Senior Java Backend Engineer";
+    String company    = "TCS · Pune";
+    String experience = "5+ years";
 
-    String[] expertise   = {
-        "Distributed Systems Design",
+    String[] focus = {
+        "Distributed Systems",
+        "Microservices",
         "Event-Driven Architecture",
-        "High-Throughput Microservices",
-        "Applied AI Integration",
-        "Cloud-Native AWS Deployments"
+        "Cloud-Native Engineering",
+        "Applied AI"
     };
 
-    String[] openTo      = {
-        "Senior / Lead Java Backend Engineer",
-        "Pune · Bangalore · Hyderabad · Mumbai · Remote"
+    String[] stack = {
+        "Java", "Spring Boot", "Kafka",
+        "Redis", "AWS", "Docker", "Kubernetes"
     };
 
-    String   superpower  = "Turning complex systems into clean, scalable, fault-tolerant platforms";
-
-    @Override
-    public void ping() {
-        System.out.println("Let's build something great → sukrut1606@gmail.com");
-    }
+    String mindset = "Design for failure. Build for scale. Keep systems simple.";
+    String openTo  = "Senior / Lead Java Backend roles";
+    String status  = "Immediate Joiner";
 }
 ```
 
+### Engineering Philosophy
+
+| Principle | In practice |
+|:--|:--|
+| ⚡ **Performance** | Optimise where it matters — MySQL tuning took an order-processing path from 420 → 273 ms. |
+| 🛡️ **Resilience** | Design for failure: circuit breakers, bulkheads, retries, DLQs, idempotent APIs. |
+| 📡 **Decoupling** | Prefer event-driven workflows where they fit — Kafka migration cut inter-service latency by 25%. |
+| 🔍 **Observability** | If you can't observe it, you can't operate it — ELK and CloudWatch alerting. |
+| 🧩 **Simplicity** | Complex systems should still be understandable. |
+
 <br/>
 
-<!-- ================= IMPACT ================= -->
-## 📊 Production Impact — By the Numbers
+## 🏆 Achievement
+
+> **TCS AI Fridays Season 2 — First Place** · Pune · June 2026
+>
+> Company-wide competition. Built **AdVanta AI**, an enterprise AI campaign platform (Java · Spring Boot · MySQL), ahead of teams of Senior Developers, Team Leads and Architects. Recognised by the **Global Head, Delivery Centers &amp; Shared Services, TCS India**.
+
+## Production Impact
+
+<table align="center">
+<tr>
+<td align="center" width="25%"><h2>50K+</h2><sub>daily transactions<br/>Spring Boot microservices</sub></td>
+<td align="center" width="25%"><h2>100K+</h2><sub>events / day<br/>Kafka notification platform</sub></td>
+<td align="center" width="25%"><h2>99.9%</h2><sub>service uptime</sub></td>
+<td align="center" width="25%"><h2>3x</h2><sub>traffic spikes handled<br/>without degradation</sub></td>
+</tr>
+<tr>
+<td align="center"><h2>−30%</h2><sub>API latency<br/>800 → 560 ms</sub></td>
+<td align="center"><h2>−25%</h2><sub>inter-service latency<br/>Kafka migration</sub></td>
+<td align="center"><h2>−40%</h2><sub>release failures<br/>Docker environment parity</sub></td>
+<td align="center"><h2>2d → 4h</h2><sub>release cycle<br/>Jenkins CI/CD</sub></td>
+</tr>
+</table>
 
 <div align="center">
-
-| Metric | Before | After | Impact |
-|:---|:---:|:---:|:---:|
-| ⚡ API Response Time | ~800ms | ~560ms | **-30% Latency** |
-| 🚀 Deployment Cycle | 2 days | 4 hours | **-50% Effort** |
-| 📈 Service Uptime | — | 99.9% | **50K+ Daily Txns** |
-| 🔗 Inter-service Latency | — | — | **-25% via Kafka Migration** |
-| 🛡️ Release Failures | — | — | **-40% via Docker Parity** |
-| 📦 Technical Debt | — | — | **-35% across 12+ Repos** |
-| 🎯 Message Delivery | — | 99.96% | **100K+ Events/day** |
-| 👨‍🏫 Engineers Mentored | — | 3 | **Code Quality Culture** |
-
-</div>
-
-```text
-⚡ API Latency        ████████████████░░░░  -30%   800ms → 560ms
-🚀 Deployment Speed  ██████████████████░░  -50%   2 days → 4 hours
-📈 Uptime            ███████████████████░  99.9%  Enterprise Grade
-🔗 System Latency    ██████████████░░░░░░  -25%   Kafka Async Migration
-🛡️ Release Failures  ████████████████░░░░  -40%   Docker + AWS Parity
-📦 Technical Debt    ███████████████░░░░░  -35%   12+ Microservices
-```
-
-<br/>
-
-<!-- ================= TECH STACK ================= -->
-## 🛠️ Tech Arsenal
-
-<div align="center">
-
-**Core Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=java,mysql,python&theme=dark" />
-
-**Backend Frameworks**
-<br/>
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![WebFlux](https://img.shields.io/badge/Spring_WebFlux-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-
-**Messaging & Streaming**
-<br/>
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![REST](https://img.shields.io/badge/REST_APIs-FF6600?style=for-the-badge&logo=fastapi&logoColor=white)
-
-**Cloud & DevOps**
-<br/>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins&theme=dark" />
-
-**Databases**
-<br/>
-<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" />
-![H2](https://img.shields.io/badge/H2_Database-1021FF?style=for-the-badge&logo=h2&logoColor=white)
-
-**Testing & Quality**
-<br/>
-![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Mockito](https://img.shields.io/badge/Mockito-00ACC1?style=for-the-badge&logo=mockito&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
-
-**AI & Emerging**
-<br/>
-![GenAI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM_Integration-10A37F?style=for-the-badge&logo=openai&logoColor=white)
-
-**Tools & Monitoring**
-<br/>
-<img src="https://skillicons.dev/icons?i=github,maven,postman&theme=dark" />
-![Kibana](https://img.shields.io/badge/Kibana%2FELK-005571?style=for-the-badge&logo=elastic&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger%2FOpenAPI-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-
+<sub>Also: −35% technical debt across 12+ repos · 99.95% notification delivery reliability · 40% → 78% test coverage via TDD · 3 engineers mentored</sub>
 </div>
 
 <br/>
 
-<!-- ================= PROJECTS ================= -->
-## 🚀 Featured Projects
+## Tech Stack
+
+| | |
+|:--|:--|
+| **⚙️ Core Engineering** | <img src="https://skillicons.dev/icons?i=java,spring,hibernate,python&theme=dark"/><br/><sub>Spring Boot · Spring Cloud · Spring Security · JPA/Hibernate · WebFlux</sub> |
+| **📨 Distributed Systems** | <img src="https://skillicons.dev/icons?i=kafka,redis&theme=dark"/><br/><sub>Apache Kafka · Redis · REST · gRPC · Resilience4j</sub> |
+| **☁️ Cloud &amp; Infrastructure** | <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins&theme=dark"/><br/><sub>AWS (EC2, S3, SQS, CloudWatch) · Docker · Kubernetes · Terraform · Jenkins</sub> |
+| **🗄️ Data** | <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark"/><br/><sub>MySQL · PostgreSQL · H2</sub> |
+| **🧪 Quality &amp; Observability** | <sub>JUnit 5 · Mockito · SonarQube · ELK / Kibana · Swagger/OpenAPI</sub> |
+| **🤖 AI** | <sub>Generative AI · LLM Integration · Streamlit</sub> |
+| **🧰 Tooling** | <img src="https://skillicons.dev/icons?i=maven,postman,github&theme=dark"/> |
+
+## What I Build
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🏆 AdVanta AI
-[`backend`](https://github.com/sukrut2498-cmd/advanta-ai-backend) · [`frontend`](https://github.com/sukrut2498-cmd/advanta-ai-frontend)
+### 🏗️ Microservices
+Spring Boot services with clear service boundaries, secured with Spring Security and built for high throughput.
 
-**First Place — TCS AI Fridays Season 2, Pune · June 2026**
-
-> AI-powered enterprise campaign generation & compliance platform
-
-**Stack:** `Java` `Spring Boot` `Spring Data JPA` `REST APIs` `Streamlit` `MySQL`
-
-<details>
-<summary><b>Highlights</b></summary>
-<br/>
-
-- 🤖 AI-assisted campaign generation with compliance scoring
-- 📱 Multi-channel: Instagram · Email · SMS · Web
-- 📅 Campaign scheduling, versioning & editable drafts
-- 📁 Brand guideline uploads · TXT/JSON export
-- 🏆 Beat Senior Devs, TLs & Architects company-wide
-- 🎖️ Recognised by Global Head, TCS Delivery Centers
-
-</details>
+<sub>50K+ daily transactions · 12+ repos</sub>
 
 </td>
 <td width="50%" valign="top">
 
-### 🔔 Distributed Notification Platform
-> High-volume, fault-tolerant event-driven notification system
+### 📡 Event-Driven Systems
+Kafka-based asynchronous workflows with retries, DLQs and idempotent consumers.
 
-**Stack:** `Spring Boot` `Apache Kafka` `Redis` `Docker` `AWS EC2/S3` `Jenkins`
-
-<details>
-<summary><b>Highlights</b></summary>
-<br/>
-
-- ⚡ **100K+ events/day** — email & SMS
-- 🛡️ **99.95% delivery reliability** via DLQ + circuit breakers
-- 📈 Sustained **3x traffic spikes** without degradation
-- 📋 Designed full HLD + LLD before implementation
-- 🔍 CloudWatch + ELK alerting for proactive SLA management
-
-</details>
+<sub>100K+ events/day · −25% inter-service latency</sub>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🛒 Real-Time Order Processing System
-> Distributed order, payment & inventory management platform
+### 🛡️ Resilient Systems
+Circuit breakers, retries, bulkheads, rate limiting and fault isolation with Resilience4j.
 
-**Stack:** `Spring Boot` `Kafka` `MySQL` `Redis` `Resilience4j` `AWS SQS`
-
-<details>
-<summary><b>Highlights</b></summary>
-<br/>
-
-- 🔁 **Saga pattern** — documented choreography vs orchestration trade-offs
-- ✅ Idempotent APIs — duplicate payment errors reduced to **zero**
-- 📉 MySQL optimisation → **-35% latency** (420ms → 273ms)
-- 🚦 Rate limiting + Circuit Breaker under **10K+ req/min**
-
-</details>
+<sub>99.95% delivery · 10K+ req/min · 3x spikes</sub>
 
 </td>
 <td width="50%" valign="top">
 
-### 📚 DSA & System Design Patterns
-[`dsa-java`](https://github.com/sukrut2498-cmd/dsa-java)
+### ☁️ Cloud-Native Platforms
+Docker, Kubernetes and AWS with automated Jenkins CI/CD pipelines.
 
-> Patterns & architectures applied in production
-
-```
-✅ HLD & LLD Documentation
-✅ Event-Driven Architecture (Kafka)
-✅ Circuit Breaker · Saga · CQRS
-✅ Dead Letter Queue + Retry Strategy
-✅ API Gateway · Rate Limiting
-✅ Idempotency & Request Deduplication
-✅ Bulkhead Pattern (Resilience4j)
-✅ Distributed Transaction Management
-✅ Observability — ELK · CloudWatch
-✅ Microservices Decomposition
-```
+<sub>2d → 4h releases · −40% release failures</sub>
 
 </td>
 </tr>
 </table>
 
-<br/>
+### Production Engineering
 
-<!-- ================= EXPERIENCE ================= -->
-## 💼 Experience Timeline
-
-```
-2022 ─────────────────────────────────────────────────── 2026
-  │                                                         │
-  ▼                                                         ▼
- TCS (Tata Consultancy Services) · Pune          Present (4+ Years)
- Systems Engineer — Java Backend Developer
- ┌──────────────────────────────────────────────────────────┐
- │ • Architected Spring Boot microservices at 50K+ txns/day │
- │ • Led Kafka migration across 8+ microservices (org-wide) │
- │ • Owned Jenkins CI/CD · reduced releases 2 days → 4 hrs  │
- │ • Mentored 3 junior engineers · SonarQube quality drive  │
- │ • 🏆 Won TCS AI Fridays Season 2 — First Place (2026)   │
- └──────────────────────────────────────────────────────────┘
-
-2021 ──────────────────────────────────────────────── 2022
-  │                                                    │
-  ▼                                                    ▼
- MeshBA · Maharashtra                              1 Year
- Software Developer — Backend
- ┌───────────────────────────────────────────────────┐
- │ • Java Spring Boot REST APIs · MySQL              │
- │ • Spring Security · JWT · OAuth2 · RBAC           │
- │ • Raised code coverage 40% → 78% via TDD          │
- │ • Jenkins CI/CD · release cycle -15%              │
- └───────────────────────────────────────────────────┘
+```text
+┌──────────────────────────────────────────┐
+│           PRODUCTION ENGINEERING         │
+├──────────────────────────────────────────┤
+│ Kafka           → Event streaming        │
+│ Redis           → Caching                │
+│ Resilience4j    → Fault isolation        │
+│ DLQ + Retry     → Failure recovery       │
+│ Outbox / Inbox  → Reliable messaging     │
+│ Idempotency     → Duplicate safety       │
+│ CQRS            → Read/write scaling     │
+│ Saga            → Distributed txns       │
+│ ELK             → Observability          │
+│ Kubernetes      → Orchestration          │
+│ Terraform       → Infrastructure         │
+└──────────────────────────────────────────┘
 ```
 
 <br/>
 
-<!-- ================= GITHUB STATS ================= -->
-## 📊 GitHub Stats
+## Featured Projects
 
-<div align="center">
+### AdVanta AI &nbsp;<img src="https://img.shields.io/badge/🏆_First_Place-TCS_AI_Fridays_S2-F59E0B?style=flat-square"/>
+[`backend`](https://github.com/sukrut2498-cmd/advanta-ai-backend) · [`frontend`](https://github.com/sukrut2498-cmd/advanta-ai-frontend)
 
-<img src="https://github-readme-stats.vercel.app/api?username=sukrut2498-cmd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sukrut2498-cmd&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
+> AI-powered enterprise campaign generation &amp; compliance platform.
+
+`Java` `Spring Boot` `Spring Data JPA` `REST APIs` `Streamlit` `MySQL`
+
+<details>
+<summary><b>Problem · Architecture · Engineering decisions</b></summary>
+<br/>
+
+**Problem:** producing brand-compliant campaigns across multiple channels.
+
+```text
+User
+ ▼
+Campaign UI (Streamlit)
+ ▼
+Backend API (Spring Boot · REST)
+ ▼
+AI-assisted generation + compliance scoring
+ ▼
+MySQL
+```
+
+- AI-assisted campaign generation with compliance scoring
+- Multi-channel support: Instagram · Email · SMS · Web
+- Scheduling, versioning and editable drafts
+- Brand guideline uploads · TXT/JSON export
+- Separate backend and frontend repositories
+
+</details>
+
+### Distributed Notification Platform
+> High-volume, fault-tolerant, event-driven notification system.
+
+`Spring Boot` `Apache Kafka` `Redis` `Docker` `AWS EC2/S3` `Jenkins`
+
+**100K+ events/day** · **99.95% delivery reliability** · **3x traffic spikes**
+
+<details>
+<summary><b>Architecture · Engineering decisions</b></summary>
+<br/>
+
+```text
+Producer
+   ▼
+ Kafka
+   ▼
+Consumer ──┬──▶ Email
+           ├──▶ SMS
+           └──▶ Retry ──▶ DLQ
+```
+
+- Full HLD + LLD designed before implementation
+- DLQ and circuit breakers for delivery reliability
+- CloudWatch + ELK alerting for proactive SLA management
+
+</details>
+
+### Real-Time Order Processing System
+> Distributed order, payment &amp; inventory management platform.
+
+`Spring Boot` `Kafka` `MySQL` `Redis` `Resilience4j` `AWS SQS`
+
+**−35% latency (420 → 273 ms)** · **zero duplicate payment errors** · **10K+ req/min**
+
+<details>
+<summary><b>Architecture · Engineering decisions</b></summary>
+<br/>
+
+```text
+Order
+  ▼
+Kafka ──┬──▶ Payment
+        └──▶ Inventory
+
+Saga · Idempotency · Rate limiting · Circuit breaker
+```
+
+<sub>Simplified representation of the project architecture.</sub>
+
+- Saga pattern — documented choreography vs orchestration trade-offs
+- Idempotent APIs eliminated duplicate payment errors
+- MySQL optimisation for the hot path
+- Rate limiting + circuit breaker under 10K+ req/min
+
+</details>
+
+### DSA &amp; System Design
+[`dsa-java`](https://github.com/sukrut2498-cmd/dsa-java) — DSA in Java plus HLD/LLD documentation and patterns: design patterns, Kafka event-driven architecture, resilience (circuit breaker, bulkhead, DLQ), idempotency, CQRS, Saga, observability.
 
 <br/>
 
-<img src="https://github-readme-streak-stats-tjt5.onrender.com?user=sukrut2498-cmd&theme=tokyonight&hide_border=true" width="60%"/>
+## Experience
 
-<br/><br/>
+```text
+2021 ── MeshBA · Software Developer (Backend) · 1 yr
+  │
+2022 ── TCS · Systems Engineer — Java Backend Developer · 4+ yrs
+  │
+2026 ── Open to Senior / Lead Java Backend roles
+```
 
-<img src="https://github-profile-trophy.vercel.app/?username=sukrut2498-cmd&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" width="90%"/>
+<details open>
+<summary><b>TCS (Tata Consultancy Services) · Pune — 2022 to present</b></summary>
+<br/>
 
-<br/><br/>
+- Architected Spring Boot microservices handling 50K+ daily transactions
+- Led Kafka migration across 8+ microservices (−25% inter-service latency)
+- Owned Jenkins CI/CD: releases 2 days → 4 hours; Docker parity cut release failures 40%
+- Reduced technical debt 35% across 12+ repos; SonarQube quality drive
+- Mentored 3 junior engineers
+- Stack: Spring Boot · Kafka · AWS · Docker · Kubernetes · Jenkins · ELK
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sukrut2498-cmd&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+</details>
+
+<details>
+<summary><b>MeshBA · Maharashtra — 2021 to 2022</b></summary>
+<br/>
+
+- Java Spring Boot REST APIs · MySQL
+- Spring Security · JWT · OAuth2 · RBAC
+- Test coverage 40% → 78% via TDD
+- Jenkins CI/CD · release cycle −15%
+
+</details>
+
+<sub>**Education:** PG-DAC, CDAC Pune (2020) · B.E. Computer Science &amp; Engineering, Shivaji University (2019)</sub>
+
+<br/>
+
+## Engineering Journey
+
+```text
+Java
+  ▼
+Spring Boot
+  ▼
+Microservices
+  ▼
+Kafka
+  ▼
+Distributed Systems
+  ▼
+AWS / Kubernetes
+  ▼
+Applied AI
+```
+
+```bash
+$ ls ~/exploring
+advanced-kafka/  distributed-systems/  system-design/
+cloud-native/    llm-integration/      java-performance/  kubernetes/
+```
+
+<br/>
+
+## GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sukrut2498-cmd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sukrut2498-cmd&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="48%" alt="Top languages"/>
+
+<img src="https://github-readme-streak-stats-tjt5.onrender.com?user=sukrut2498-cmd&theme=tokyonight&hide_border=true" width="70%" alt="Contribution streak"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sukrut2498-cmd/sukrut2498-cmd/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/sukrut2498-cmd/sukrut2498-cmd/output/github-contribution-grid-snake.svg" width="95%" alt="Contribution snake">
+</picture>
 
 </div>
 
 <br/>
 
-<!-- ================= CONTRIBUTION SNAKE ================= -->
 <div align="center">
 
-### 🐍 Contribution Graph
+## 🤝 Let's Build Something That Scales
 
-<img src="https://raw.githubusercontent.com/sukrut2498-cmd/sukrut2498-cmd/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+**Senior Java Backend Engineer**<br/>
+Distributed Systems • Kafka • Spring Boot • AWS
 
-<sub>Animated by the <code>github-contribution-grid-snake</code> action — see setup note below ⬇️</sub>
+📍 Pune · Bangalore · Hyderabad · Mumbai · Remote<br/>
+🟢 **Immediate Joiner**
 
-</div>
+<a href="https://www.linkedin.com/in/sukrut-b-224826338/"><img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:sukrut1606@gmail.com"><img src="https://img.shields.io/badge/Email-sukrut1606@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/sukrut2498-cmd"><img src="https://img.shields.io/badge/GitHub-sukrut2498--cmd-0B1026?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-<br/>
-
-<!-- ================= EDUCATION ================= -->
-## 🎓 Education & Credentials
-
-<div align="center">
-
-| Qualification | Institution | Year |
-|:---|:---:|:---:|
-| 🎓 PG Diploma in Advanced Computing (PG-DAC) | CDAC Pune | 2020 |
-| 🎓 B.E. in Computer Science & Engineering | Shivaji University | 2019 |
-| 🏆 TCS AI Fridays Season 2 — First Place | TCS Pune | June 2026 |
-
-</div>
-
-<br/>
-
-<!-- ================= CONTACT ================= -->
-<div align="center">
-
-## 📫 Let's Build Something Great
-
-> 💼 Actively looking for **Senior / Lead Java Backend Engineer** roles
->
-> 📍 **Pune · Bangalore · Hyderabad · Mumbai · Remote**
->
-> 🟢 **Immediate Joiner**
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sukrut-b-224826338/)
-[![Email](https://img.shields.io/badge/Email-Hire_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sukrut1606@gmail.com)
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0077B5&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B1F7A,55:0B2A66,100:070B1F&height=110&section=footer" width="100%" alt=""/>
 
 </div>
